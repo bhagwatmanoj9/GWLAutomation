@@ -74,5 +74,10 @@ public class GWR_HomePage_Test extends SeleniumUtils{
 		Report.SummaryReportlog(ScenarioName);
 		record.stopVideoRecording();
 	}
+	public void manojtest(String scriptNo, String dataSetNo, String dataSheet, String ScenarioName) 
+	{
+		
+		
+	}
 
 }
