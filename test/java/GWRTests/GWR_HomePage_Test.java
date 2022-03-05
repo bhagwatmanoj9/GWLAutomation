@@ -74,13 +74,5 @@ public class GWR_HomePage_Test extends SeleniumUtils{
 		Report.SummaryReportlog(ScenarioName);
 		record.stopVideoRecording();
 	}
-<<<<<<< HEAD
-=======
-	public void manojtest(String scriptNo, String dataSetNo, String dataSheet, String ScenarioName) 
-	{
-		
-		QA
-	}
 
->>>>>>> c234086249d73a0995b70d44f635a407717f7dbd
 }
